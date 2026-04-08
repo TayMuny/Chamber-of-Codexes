@@ -11,3 +11,5 @@ This site contains:
 - System architecture
 
 The full canon lives privately inside the Sarai’sSacredSpaceStation™ Obsidian vault.
+
+➡️ [Enter the Chamber](chamber/overview.md)
