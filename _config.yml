@@ -1,1 +1,23 @@
+title: "Chamber of Codexes — Public Portal"
+description: "A public gateway into the sovereign cosmological architecture of Sarai’s Souldiers LLC™."
+theme: minima
+
+markdown: kramdown
+
+collections:
+  codex:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+nav:
+  - Home: /
+  - About: /about/
+  - Codex: /codex/
+  - Glossary: /glossary/
+  - Routines: /routines/
 
