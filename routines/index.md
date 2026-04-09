@@ -17,5 +17,5 @@ This section contains public‑safe versions of Souldier rituals.
 - Release  
 - Expansion  
 
-Full ritual canon lives privately in the Obsidian Chamber.
+Full routine canon lives privately in the Obsidian Chamber.
 
